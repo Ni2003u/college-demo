@@ -1,4 +1,4 @@
 # college-demo
 This is my first Git Repository.
 <br>
-Author - Nitu Verma
+Author - Nitu (apna college)
